@@ -8,6 +8,7 @@ Gemfile.lock
 .jekyll-metadata
 _site
 
+
 # RubyGems
 *.gem
 
@@ -25,3 +26,4 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+.DS_Store
